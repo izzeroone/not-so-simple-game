@@ -1,0 +1,727 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+  <Objects>
+<!-- <Item Id="1" Name="land_ladder_1" X="1228" Y="94" Width="39" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="4" />
+</Item>
+<Item Id="1" Name="land_ladder_2" X="1307" Y="110" Width="40" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="4" />
+</Item>
+<Item Id="1" Name="land_ladder_3" X="1268" Y="102" Width="37" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="4" />
+</Item>
+<Item Id="1" Name="land_ladder_4" X="1147" Y="78" Width="37" Height="19">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="4" />
+</Item>
+<Item Id="1" Name="land_ladder_5" X="1348" Y="119" Width="38" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="4" />
+</Item>
+<Item Id="1" Name="land_ladder_6" X="1187" Y="86" Width="40" Height="13">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="4" />
+</Item>
+<Item Id="1" Name="land_ladder_7" X="1135" Y="68" Width="35" Height="19">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="4" />
+</Item>
+<Item Id="1" Name="land_ladder_8" X="1107" Y="64" Width="44" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="4" />
+</Item>
+<Item Id="1" Name="land_ladder_9" X="1216" Y="89" Width="42" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="4" />
+</Item>
+<Item Id="1" Name="land_ladder_10" X="1175" Y="81" Width="39" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="4" />
+</Item>
+<Item Id="1" Name="land_ladder_11" X="1252" Y="97" Width="41" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="4" />
+</Item>
+<Item Id="1" Name="land_ladder_12" X="1373" Y="123" Width="39" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="4" />
+</Item>
+<Item Id="1" Name="land_ladder_13" X="1333" Y="113" Width="40" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="4" />
+</Item>
+<Item Id="1" Name="land_ladder_14" X="1294" Y="105" Width="39" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="4" />
+</Item>
+<Item Id="1" Name="land_ladder_15" X="1387" Y="126" Width="104" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="4" />
+</Item> -->
+<Item Id="1" Name="ladder_0" X="1107" Y="64" Width="9" Height="2" />
+<Item Id="1" Name="ladder_1" X="1116" Y="66" Width="9" Height="2" />
+<Item Id="1" Name="ladder_2" X="1125" Y="68" Width="9" Height="2" />
+<Item Id="1" Name="ladder_3" X="1135" Y="70" Width="9" Height="2" />
+<Item Id="1" Name="ladder_4" X="1144" Y="72" Width="9" Height="2" />
+<Item Id="1" Name="ladder_5" X="1153" Y="74" Width="9" Height="2" />
+<Item Id="1" Name="ladder_6" X="1163" Y="76" Width="9" Height="2" />
+<Item Id="1" Name="ladder_7" X="1172" Y="78" Width="9" Height="2" />
+<Item Id="1" Name="ladder_8" X="1181" Y="80" Width="9" Height="2" />
+<Item Id="1" Name="ladder_9" X="1191" Y="82" Width="9" Height="2" />
+<Item Id="1" Name="ladder_10" X="1200" Y="84" Width="9" Height="2" />
+<Item Id="1" Name="ladder_11" X="1209" Y="86" Width="9" Height="2" />
+<Item Id="1" Name="ladder_12" X="1219" Y="88" Width="9" Height="2" />
+<Item Id="1" Name="ladder_13" X="1228" Y="90" Width="9" Height="2" />
+<Item Id="1" Name="ladder_14" X="1237" Y="92" Width="9" Height="2" />
+<Item Id="1" Name="ladder_15" X="1247" Y="95" Width="9" Height="2" />
+<Item Id="1" Name="ladder_16" X="1256" Y="97" Width="9" Height="2" />
+<Item Id="1" Name="ladder_17" X="1265" Y="99" Width="9" Height="2" />
+<Item Id="1" Name="ladder_18" X="1275" Y="101" Width="9" Height="2" />
+<Item Id="1" Name="ladder_19" X="1284" Y="103" Width="9" Height="2" />
+<Item Id="1" Name="ladder_20" X="1293" Y="105" Width="9" Height="2" />
+<Item Id="1" Name="ladder_21" X="1303" Y="107" Width="9" Height="2" />
+<Item Id="1" Name="ladder_22" X="1312" Y="109" Width="9" Height="2" />
+<Item Id="1" Name="ladder_23" X="1321" Y="111" Width="9" Height="2" />
+<Item Id="1" Name="ladder_24" X="1331" Y="113" Width="9" Height="2" />
+<Item Id="1" Name="ladder_25" X="1340" Y="115" Width="9" Height="2" />
+<Item Id="1" Name="ladder_26" X="1349" Y="117" Width="9" Height="2" />
+<Item Id="1" Name="ladder_27" X="1359" Y="119" Width="9" Height="2" />
+<Item Id="1" Name="ladder_28" X="1368" Y="121" Width="9" Height="2" />
+<Item Id="1" Name="ladder_29" X="1377" Y="123" Width="9" Height="2" />
+<Item Id="1" Name="ladder_30" X="1387" Y="126" Width="9" Height="2" />
+
+
+<Item Id="1" Name="land_1" X="0" Y="64" Width="467" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_2" X="577" Y="64" Width="258" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_3" X="943" Y="64" Width="67" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_4" X="1475" Y="32" Width="544" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_5" X="2122" Y="32" Width="81" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_6" X="1747" Y="253" Width="296" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_7" X="1626" Y="253" Width="36" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_8" X="1474" Y="253" Width="104" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_9" X="1474" Y="301" Width="40" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_10" X="1587" Y="413" Width="688" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_11" X="2243" Y="22" Width="535" Height="13">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_12" X="2556" Y="173" Width="190" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_13" X="2731" Y="125" Width="111" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_14" X="2819" Y="32" Width="257" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_15" X="3217" Y="32" Width="1124" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_16" X="4336" Y="38" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_17" X="4347" Y="42" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_18" X="4354" Y="45" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_19" X="4374" Y="49" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_20" X="4388" Y="54" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_21" X="4412" Y="58" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_22" X="4427" Y="62" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_23" X="4450" Y="66" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_24" X="4468" Y="70" Width="302" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_25" X="4603" Y="190" Width="80" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_26" X="4299" Y="222" Width="95" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_27" X="4205" Y="238" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_28" X="4106" Y="226" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_29" X="3968" Y="254" Width="106" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_30" X="3947" Y="251" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_31" X="3934" Y="246" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_32" X="3920" Y="241" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_33" X="3900" Y="236" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_34" X="3884" Y="231" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_35" X="3872" Y="226" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_36" X="3846" Y="221" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_37" X="3830" Y="216" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_38" X="3819" Y="211" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_39" X="3058" Y="205" Width="764" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_40" X="2807" Y="270" Width="275" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_41" X="2783" Y="275" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_42" X="2769" Y="280" Width="30" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_43" X="2642" Y="286" Width="141" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_44" X="2522" Y="526" Width="128" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_45" X="2738" Y="526" Width="88" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_46" X="2818" Y="398" Width="377" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_47" X="3185" Y="366" Width="375" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_48" X="2962" Y="526" Width="200" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_49" X="3603" Y="366" Width="25" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_50" X="3499" Y="574" Width="111" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_51" X="3603" Y="478" Width="693" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_52" X="4287" Y="629" Width="67" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+<Item Id="1" Name="land_53" X="4354" Y="478" Width="416" Height="15">
+  <Elem Key="physicBodyDirection" Value="1" />
+  <Elem Key="type" Value="0" />
+</Item>
+
+<Item Id="1" Name="flame_land_1" X="465" Y="65" Width="114" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="1" />
+  </Params>
+</Item>
+<Item Id="1" Name="flame_land_2" X="833" Y="65" Width="112" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="1" />
+  </Params>
+</Item>
+<Item Id="1" Name="flame_land_3" X="1008" Y="65" Width="102" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="1" />
+  </Params>
+</Item>
+<Item Id="1" Name="flame_land_4" X="2017" Y="33" Width="108" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="1" />
+  </Params>
+</Item>
+<Item Id="1" Name="flame_land_5" X="3074" Y="33" Width="145" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="1" />
+  </Params>
+</Item>
+
+
+	
+	<Item Id="1" Name="fallland1" X="1631" Y="231" Width="34" Height="16">
+      <Params>
+        <Elem Key="physicBodyDirection" Value="1" />
+        <Elem Key="type" Value="2" />
+      </Params>
+    </Item>
+
+	<Item Id="1" Name="pass_thought_land_1" X="2539" Y="170" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_2" X="2506" Y="167" Width="40" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_3" X="2487" Y="162" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_4" X="2451" Y="158" Width="40" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_5" X="2440" Y="154" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_6" X="2419" Y="151" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_7" X="2410" Y="147" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_8" X="2386" Y="143" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_9" X="2376" Y="139" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_10" X="2356" Y="135" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_11" X="2348" Y="133" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_12" X="2338" Y="130" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_13" X="2324" Y="127" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_14" X="2314" Y="123" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_15" X="2291" Y="119" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_16" X="2282" Y="115" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_17" X="2243" Y="111" Width="48" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_18" X="2373" Y="83" Width="35" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_19" X="2542" Y="43" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_20" X="2324" Y="95" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_21" X="2515" Y="51" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_22" X="2566" Y="35" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_23" X="2337" Y="91" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_24" X="2483" Y="59" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_25" X="2500" Y="55" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_26" X="2469" Y="63" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_27" X="2577" Y="31" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_28" X="2292" Y="103" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_29" X="2305" Y="99" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_30" X="2356" Y="87" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_31" X="2399" Y="79" Width="35" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_32" X="2532" Y="47" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_33" X="2556" Y="39" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_34" X="2458" Y="66" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_35" X="2592" Y="28" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_36" X="2273" Y="107" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_37" X="2445" Y="68" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+<Item Id="1" Name="pass_thought_land_38" X="2436" Y="71" Width="30" Height="15">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="1" />
+    <Elem Key="type" Value="3" />
+  </Params>
+</Item>
+
+<Item Id="28" Name="wall_1" X="2189" Y="400" Width="53" Height="393">
+  <Elem Key="physicBodyDirection" Value="15" />
+</Item>
+<Item Id="28" Name="wall_2" X="1434" Y="684" Width="39" Height="431">
+  <Elem Key="physicBodyDirection" Value="15" />
+</Item>
+<Item Id="28" Name="wall_3" X="2779" Y="111" Width="39" Height="109">
+  <Elem Key="physicBodyDirection" Value="15" />
+</Item>
+<Item Id="28" Name="wall_4" X="3018" Y="257" Width="39" Height="66">
+  <Elem Key="physicBodyDirection" Value="15" />
+</Item>
+<Item Id="28" Name="wall_5" X="2603" Y="511" Width="38" Height="239">
+  <Elem Key="physicBodyDirection" Value="15" />
+</Item>
+<Item Id="28" Name="wall_6" X="2491" Y="688" Width="30" Height="176">
+  <Elem Key="physicBodyDirection" Value="15" />
+</Item>
+<Item Id="28" Name="wall_7" X="3161" Y="688" Width="25" Height="177">
+  <Elem Key="physicBodyDirection" Value="15" />
+</Item>
+<Item Id="28" Name="wall_8" X="3164" Y="387" Width="20" Height="36">
+  <Elem Key="physicBodyDirection" Value="15" />
+</Item>
+<Item Id="28" Name="wall_9" X="3561" Y="561" Width="41" Height="209">
+  <Elem Key="physicBodyDirection" Value="15" />
+</Item>
+<Item Id="28" Name="wall_10" X="4297" Y="614" Width="56" Height="151">
+  <Elem Key="physicBodyDirection" Value="15" />
+</Item>
+<Item Id="28" Name="wall_11" X="1429" Y="111" Width="45" Height="91">
+  <Elem Key="physicBodyDirection" Value="15" />
+</Item>
+
+
+
+<Item Id="2" Name="rope_vertical_1" X="2087" Y="341" Width="7" Height="235">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="15" />
+    <Elem Key="type" Value="0" />
+  </Params>
+</Item>
+<Item Id="2" Name="rope_vertical_2" X="1543" Y="511" Width="7" Height="171">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="15" />
+    <Elem Key="type" Value="0" />
+  </Params>
+</Item>
+<Item Id="2" Name="rope_vertical_3" X="4711" Y="313" Width="7" Height="157">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="15" />
+    <Elem Key="type" Value="0" />
+  </Params>
+</Item>
+<Item Id="2" Name="rope_vertical_4" X="2695" Y="589" Width="7" Height="209">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="15" />
+    <Elem Key="type" Value="0" />
+  </Params>
+</Item>
+	
+<Item Id="2" Name="rope_horizontal_1" X="4345" Y="384" Width="422" Height="10">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="15" />
+    <Elem Key="type" Value="1" />
+  </Params>
+</Item>
+<Item Id="2" Name="rope_horizontal_2" X="4355" Y="608" Width="204" Height="10">
+  <Params>
+    <Elem Key="physicBodyDirection" Value="15" />
+    <Elem Key="type" Value="1" />
+  </Params>
+</Item>
+<Item Id="9" Name="thrower_0" X="200" Y="200" Width="20" Height="5" />
+<Item Id="9" Name="thrower_1" X="1781" Y="197" Width="20" Height="5" />
+<Item Id="9" Name="thrower_2" X="1829" Y="165" Width="20" Height="5" />
+<Item Id="9" Name="thrower_3" X="1941" Y="342" Width="20" Height="5" />
+<Item Id="9" Name="thrower_4" X="1829" Y="342" Width="20" Height="5" />
+<Item Id="9" Name="thrower_5" X="1733" Y="519" Width="20" Height="5" />
+<Item Id="9" Name="thrower_6" X="1941" Y="519" Width="20" Height="5" />
+<Item Id="9" Name="thrower_7" X="2101" Y="519" Width="20" Height="5" />
+<Item Id="9" Name="thrower_8" X="3765" Y="135" Width="20" Height="5" />
+<Item Id="9" Name="thrower_9" X="3941" Y="135" Width="20" Height="5" />
+<Item Id="9" Name="thrower_10" X="4005" Y="167" Width="20" Height="5" />
+<Item Id="9" Name="thrower_11" X="3301" Y="311" Width="20" Height="5" />
+<Item Id="6" Name="nakim_1" X="704" Y="62" Width="45" Height="10">
+  <Bound Left="587" Bottom="62" Right="749" Top="67" />
+</Item>
+<Item Id="6" Name="nakim_2" X="2676" Y="285" Width="45" Height="10">
+  <Bound Left="2662" Bottom="285" Right="2798" Top="290" />
+</Item>
+<Item Id="8" Name="falza_1" X="918" Y="63" Width="45" Height="10">
+  <Bound Left="729" Bottom="63" Right="1227" Top="68" />
+</Item>
+<Item Id="8" Name="falza_2" X="1679" Y="413" Width="45" Height="10">
+  <Bound Left="1679" Bottom="413" Right="1724" Top="418" />
+</Item>
+<Item Id="8" Name="falza_3" X="3188" Y="32" Width="45" Height="10">
+  <Bound Left="3003" Bottom="32" Right="3357" Top="37" />
+</Item>
+<Item Id="8" Name="falza_4" X="3599" Y="32" Width="45" Height="10">
+  <Bound Left="3555" Bottom="32" Right="3922" Top="37" />
+</Item>
+<Item Id="8" Name="falza_5" X="4197" Y="32" Width="45" Height="10">
+  <Bound Left="3912" Bottom="32" Right="4340" Top="37" />
+</Item>
+<Item Id="8" Name="falza_6" X="3743" Y="205" Width="45" Height="10">
+  <Bound Left="3560" Bottom="205" Right="3810" Top="210" />
+</Item>
+<Item Id="8" Name="falza_7" X="3062" Y="398" Width="45" Height="10">
+  <Bound Left="2922" Bottom="398" Right="3186" Top="403" />
+</Item>
+<Item Id="8" Name="falza_8" X="4470" Y="478" Width="45" Height="10">
+  <Bound Left="4451" Bottom="478" Right="4627" Top="483" />
+</Item>
+
+<Item Id="7" Name="nahbi_1" X="1692" Y="32" Width="45" Height="10">
+  <Bound Left="1533" Bottom="32" Right="1996" Top="37" />
+</Item>
+<Item Id="7" Name="nahbi_2" X="1829" Y="253" Width="45" Height="10">
+  <Bound Left="1788" Bottom="253" Right="1917" Top="258" />
+</Item>
+<Item Id="7" Name="nahbi_3" X="2190" Y="413" Width="45" Height="10">
+  <Bound Left="1949" Bottom="413" Right="2234" Top="418" />
+</Item>
+<Item Id="7" Name="nahbi_4" X="2779" Y="125" Width="45" Height="10">
+  <Bound Left="2774" Bottom="125" Right="2824" Top="130" />
+</Item>
+<Item Id="7" Name="nahbi_5" X="3424" Y="32" Width="45" Height="10">
+  <Bound Left="3327" Bottom="32" Right="3603" Top="37" />
+</Item>
+<Item Id="7" Name="nahbi_6" X="4670" Y="70" Width="45" Height="10">
+  <Bound Left="4480" Bottom="70" Right="4715" Top="75" />
+</Item>
+<Item Id="7" Name="nahbi_7" X="3891" Y="233" Width="45" Height="10">
+  <Bound Left="3839" Bottom="218" Right="3967" Top="223" />
+</Item>
+<Item Id="7" Name="nahbi_8" X="3152" Y="205" Width="45" Height="10">
+  <Bound Left="3151" Bottom="205" Right="3198" Top="210" />
+</Item>
+<Item Id="7" Name="nahbi_9" X="2838" Y="270" Width="45" Height="10">
+  <Bound Left="2914" Bottom="270" Right="3054" Top="275" />
+</Item>
+<Item Id="7" Name="nahbi_10" X="3261" Y="366" Width="45" Height="10">
+  <Bound Left="3205" Bottom="366" Right="3306" Top="371" />
+</Item>
+<Item Id="7" Name="nahbi_11" X="4646" Y="478" Width="45" Height="10">
+  <Bound Left="4645" Bottom="478" Right="4692" Top="483" />
+</Item>
+  </Objects>
